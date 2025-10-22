@@ -1,2 +1,4 @@
-# kubectl-reloader
-Kubectl plugin to monitpr chages in secretsand configmaps and reloading resources connected to them, usually deployments and statefulsets
+## kubectl-reloader
+
+
+This is a kubectl plugin that reloads deploymets and statefulsets if a configmap or secrets is updated
